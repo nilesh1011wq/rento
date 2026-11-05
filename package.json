@@ -1,0 +1,8 @@
+{
+  "name": "renko-ig-bot",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@netlify/functions": "^2.8.0"
+  }
+}
